@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class two_six_three_zero {
+public class bj2630 {
 	
 	static int[][] paper;
 	static int white_cnt=0;

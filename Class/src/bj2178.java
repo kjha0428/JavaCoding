@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.util.Queue;
 import java.util.LinkedList;
-public class two_one_seven_eight{
+public class bj2178{
     static int N,M;
     static int[][] maze;
     static boolean[][] checked;

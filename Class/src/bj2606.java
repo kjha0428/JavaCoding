@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class two_six_zero_six {
+public class bj2606 {
 
 	static boolean[] checked;
 	static int[][] adjacent;
